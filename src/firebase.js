@@ -3,14 +3,23 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore, doc, setDoc } from "firebase/firestore";
 
+// const firebaseConfig = {
+//   apiKey: "AIzaSyAHExHfMDRu2lVecgYxgW86TXDF-dvsWrY",
+//   authDomain: "personal-finance-tracker-ec56e.firebaseapp.com",
+//   projectId: "personal-finance-tracker-ec56e",
+//   storageBucket: "personal-finance-tracker-ec56e.appspot.com",
+//   messagingSenderId: "669303047696",
+//   appId: "1:669303047696:web:5b4b41cc896752c03e6c95",
+//   measurementId: "G-7X36E69HYW",
+// };
+
 const firebaseConfig = {
-  apiKey: "AIzaSyAHExHfMDRu2lVecgYxgW86TXDF-dvsWrY",
-  authDomain: "personal-finance-tracker-ec56e.firebaseapp.com",
-  projectId: "personal-finance-tracker-ec56e",
-  storageBucket: "personal-finance-tracker-ec56e.appspot.com",
-  messagingSenderId: "669303047696",
-  appId: "1:669303047696:web:5b4b41cc896752c03e6c95",
-  measurementId: "G-7X36E69HYW",
+  apiKey: "AIzaSyB8BmDhVMCdOejnk4jbAWCzwQrETcA8uN4",
+  authDomain: "finance-tracker-92976.firebaseapp.com",
+  projectId: "finance-tracker-92976",
+  storageBucket: "finance-tracker-92976.appspot.com",
+  messagingSenderId: "287070234597",
+  appId: "1:287070234597:web:70cb07ebaedf83b6e1f10c"
 };
 
 const app = initializeApp(firebaseConfig);
