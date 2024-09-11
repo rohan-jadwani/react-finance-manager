@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rohan-jadwani/react-finance-manager.git/static/css/main.dc6df80a.css",
+    "main.js": "/rohan-jadwani/react-finance-manager.git/static/js/main.d1023616.js",
+    "static/media/transactions.svg": "/rohan-jadwani/react-finance-manager.git/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/rohan-jadwani/react-finance-manager.git/index.html",
+    "static/media/user.svg": "/rohan-jadwani/react-finance-manager.git/static/media/user.0d3cde29811636d534d72a2ea4f24dad.svg",
+    "static/media/search.svg": "/rohan-jadwani/react-finance-manager.git/static/media/search.4da02613dcc315ee7fdf5edc7d9d5653.svg",
+    "main.dc6df80a.css.map": "/rohan-jadwani/react-finance-manager.git/static/css/main.dc6df80a.css.map",
+    "main.d1023616.js.map": "/rohan-jadwani/react-finance-manager.git/static/js/main.d1023616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6df80a.css",
+    "static/js/main.d1023616.js"
+  ]
+}
